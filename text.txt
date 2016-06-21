@@ -1,0 +1,5 @@
+for j in range (15):
+ if j % 5 == 3:
+  print “hello”
+ elif j % 4 == 3:
+  print “goodbye”
